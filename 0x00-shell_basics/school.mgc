@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "0 string SCHOOL School data" > school
+echo "0 string SCHOOL School data" > school.mgc
+file -C -m school.mgc
